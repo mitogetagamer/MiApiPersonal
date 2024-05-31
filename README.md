@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto se hace con el fin de poner en practica la creación de Apis tomando como ejemplo la creación de un Api con datos (inserte idea)
+Este proyecto se hace con el fin de poner en practica la creación de Apis tomando como ejemplo la creación de un Api con datos de estudiantes participantes de un MOEA
 
 # Proceso
 
@@ -33,3 +33,5 @@ Este proyecto se hace con el fin de poner en practica la creación de Apis toman
 - si quieres actualizar un usuario sigue el mismo proceso que en el punto 4, actualiza los datos y realiza la petición en postman en PUT
 - 6 si quieres eliminar un estudiante reliza el mismo proceso del punto 5 y haz la solicitud en tu postman en DELETE
 - 7 por otro lado si quieres crear un estudiante sigue el proceso del punto 2 y digita los datos del estudiante que deseas crear
+
+## Autor: David Santiago Niño
