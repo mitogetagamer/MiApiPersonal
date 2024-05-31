@@ -7,8 +7,8 @@ Este proyecto se hace con el fin de poner en practica la creación de Apis toman
 # Proceso
 
 - vincualar esta caperta con git
-- Implementar node,express,nodemos y moongose
-- (cuando lo definamos rey)
+- Implementar node,express,nodemon,moongose y morgan
+- (cuando lo de)
 
 # Instrucciones de uso
 

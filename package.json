@@ -1,0 +1,22 @@
+{
+  "name": "miapipersonal",
+  "version": "1.0.0",
+  "description": "Proyecto de APIS personal",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "/test",
+    "start": "node ./src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "David Santiago Niño",
+  "license": "ISC",
+  "type":"module",
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
